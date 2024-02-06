@@ -1,4 +1,4 @@
-//moheen
+
 var pre__size_72 = {
   white: {
     mainImg:
