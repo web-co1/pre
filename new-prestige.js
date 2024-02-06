@@ -1,4 +1,4 @@
-//moheen khan
+//moheen khan 12
 var pre__size_72 = {
   white: {
     mainImg:
